@@ -40,12 +40,12 @@ Daily Meme Dosage fetches memes from the Imgflip API using Flask. The system emp
 
 ## Challenges and Solutions
 
-Encountered API rate limits or unexpected bugs? Check out our **Challenges and Solutions** section in the documentation for insights into our journey.
 
-
-
+Encountered API rate limits or unexpected bugs? Feel free to visit the GitHub repository and explore the Issues section for insights into our journey. If you have questions or suggestions, don't hesitate to open a new issue or join the discussion!
 
 
 Enjoy your Daily Meme Dosage!
 
-*Laugh on *
+*Laugh on
+The Daily Meme Dosage Team
+*
