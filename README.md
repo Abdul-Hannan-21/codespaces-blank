@@ -4,12 +4,12 @@ Welcome to **Daily Meme Dosage**,  This project aims to automate the craving of 
 
 ## Introduction
 
- Daily Meme Dosage, powered by Flask and the Imgflip API, brings you an automated system that fetches and displays fresh memes with every 30 second orvisit.
+ Daily Meme Dosage, powered by Flask and the Imgflip API, brings you an automated system that fetches and displays fresh memes with every 30 second or every new visit.
 
 ## Features
 
 - **Daily Dose:** Get a new meme every day to brighten your internet journey.
-- **Randomizer:** No more seeing the same meme repeatedly – our randomization feature ensures variety.
+- **Randomizer:** No more seeing the same meme repeatedly – our randomization feature ensure that you see new meme in every 30 sec.
 - **Seamless Experience:** Flask and JavaScript work together to create a user-friendly, auto-refreshing interface.
 
 ## Getting Started
@@ -18,7 +18,7 @@ To get started with Daily Meme Dosage, follow these steps:
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/your-username/daily-meme-dosage.git
+    git clone https://github.com/Abdul-Hannan-21/daily-meme-dosage/.git
     ```
 
 2. **Navigate to the Project Directory:**
@@ -28,11 +28,11 @@ To get started with Daily Meme Dosage, follow these steps:
 
 3. **Run the Flask App:**
     ```bash
-    python app.py
+    python memes.py
     ```
 
 4. **Open Your Browser:**
-    Visit `http://127.0.0.1:5000/` to experience the Daily Meme Dosage!
+    Visit `http://127.0.0.1:50003/` to experience the Daily Meme Dosage!
 
 ## How It Works
 
@@ -41,7 +41,7 @@ Daily Meme Dosage fetches memes from the Imgflip API using Flask. The system emp
 ## Challenges and Solutions
 
 
-Encountered API rate limits or unexpected bugs? Feel free to visit the GitHub repository and explore the Issues section for insights into our journey. If you have questions or suggestions, don't hesitate to open a new issue or join the discussion!
+Encountered API rate limits or unexpected bugs?  don't hesitate to open a new issue or join the discussion!
 
 
 Enjoy your Daily Meme Dosage!
