@@ -31,10 +31,9 @@ To get started with Daily Meme Dosage, follow these steps:
     python memes.py
     ```
 
-4. **Open Your Browser:**
-   Now visit  your browser to experience the Daily Meme Dosage!
-5. Direct Access
-   For direct access, use this [link](https://laughing-space-winner-xj5prq69jp53vw5j-50003.app.github.dev/)..
+4. Now visit  your browser to experience the Daily Meme Dosage!
+  
+5. For direct access, use this [link](https://laughing-space-winner-xj5prq69jp53vw5j-50003.app.github.dev/)..
 
 ## How It Works
 
