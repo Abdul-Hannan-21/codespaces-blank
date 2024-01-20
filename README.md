@@ -1,6 +1,6 @@
 # Daily Meme Dosage
 
-Welcome to **Daily Meme Dosage**,  This project aims to automate the craving of  memes, ensuring that your daily internet routine is always accompanied by a hearty dose of humor.
+Welcome to **Daily Meme Dosage**,  This project aims to automate the craving of  memes, Say goodbye to endless scrolling on social media for hours just to find a good laugh – we've got you covered!.For direct access, use this [link](https://laughing-space-winner-xj5prq69jp53vw5j-50003.app.github.dev/).
 
 ## Introduction
 
@@ -32,7 +32,9 @@ To get started with Daily Meme Dosage, follow these steps:
     ```
 
 4. **Open Your Browser:**
-    Visit `http://127.0.0.1:50003/` to experience the Daily Meme Dosage!
+   Now visit  your browser to experience the Daily Meme Dosage!
+5. Direct Access
+   For direct access, use this [link](https://laughing-space-winner-xj5prq69jp53vw5j-50003.app.github.dev/)..
 
 ## How It Works
 
