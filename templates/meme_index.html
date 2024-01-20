@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Daily Meme Website</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        body {
+            background-color: #000000;
+            background-repeat: no-repeat;
+            background-position: left;
+        }
+
+        h1 {
+            text-align: center;
+            font-family: Arial, sans-serif;
+            color: #ffffff;
+            background-color: #000000;
+        }
+
+        p {
+            text-align: center;
+            font-family: Georgia, serif;
+            font-size: 18px;
+            color: #ffffff;
+        }
+
+        img {
+            display: block;
+            margin: auto;
+            max-width: 100%;
+            max-height: 400px; /* Set a maximum height */
+        }
+    </style>
+    <script>
+        // Reload the page every 30 seconds
+        setInterval(function() {
+            location.reload();
+        }, 30000);
+    </script>
+</head>
+<body>
+    <h1>A website to gather some memes!</h1>
+    <p>Here is your meme! This will refresh in 30 seconds!</p>
+    <p>Meme Name: {{meme_name}}</p>
+    <img src="{{meme_url}}" alt="Meme Image">
+</body>
+</html>
